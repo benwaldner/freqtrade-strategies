@@ -1,3 +1,9 @@
+# Personal notes
+
+Additional freqtrade data:
+https://github.com/benwaldner/freqtrade-data
+
+
 # Freqtrade strategies
 
 This Git repo contains free buy/sell strategies for [Freqtrade](https://github.com/freqtrade/freqtrade).
